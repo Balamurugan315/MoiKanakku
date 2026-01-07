@@ -1,0 +1,9 @@
+MoiData/
+backup/
+*.xlsx
+function.lock
+dist/
+build/
+__pycache__/
+*.exe
+*.spec
